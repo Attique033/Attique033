@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <img width="1500" src="https://github.com/SB2318/SB2318/blob/main/assets/Final_Break.gif" alt="Hi 👋, I'm Attique Ur Rehman.A passionate Mobile Application developer from Pakistan">
+  <img width="0" src="https://github.com/SB2318/SB2318/blob/main/assets/Final_Break.gif" alt="Hi 👋, I'm Attique Ur Rehman.A passionate Mobile Application developer from Pakistan">
 </p>
 
 <br>
