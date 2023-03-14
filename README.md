@@ -15,7 +15,6 @@
 - 🔭 I’m diving into flutter [FLUTTER]
 - 🌱 I’m currently Working as Mobile Applications Developer (React-Native | Swift | Kotlin/Java)
 - 🌱 I’m interested to work in future **Blockchain, Machine Learning**
-
 - 💬 Ask me about **Application Development, React Native, Java, Kotlin, Swift**
 
 
@@ -30,22 +29,6 @@
   <a target="_blank"href="https://www.linkedin.com/in/attique033/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:attique033@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
----
-
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Anonymous Class in Java (Java, Software Engineering)](https://iq.opengenus.org/anonymous-class-in-java/)
-- [Static Initialization Block in Java (Java, Software Engineering)](https://iq.opengenus.org/static-initialization-block-in-java/)
-- [Match Lambdas to Interfaces in Java (Java, Software Engineering)](https://www.geeksforgeeks.org/match-lambdas-to-interfaces-in-java/)
-- [Union of Two Arrays(Alogorithms,Interview Problems on Array)](https://iq.opengenus.org/union-of-two-arrays/)
-- [Shortest distance between a Line and Point in 3D plane(Algorithms,Computational Geometry)](https://iq.opengenus.org/shortest-distance-between-line-and-point-in-3d-plane/)
-- [Time and Space Complexity of Queue(Algorithm,Time Complexity, Data Structure)](https://iq.opengenus.org/time-and-space-complexity-of-queue/)
-- [Basics of Rich Text Format (RTF)(System Design)](https://iq.opengenus.org/rich-text-format/)
-- [Portable Network Graphics (PNG) File Format (RTF)(System Design)](https://iq.opengenus.org/png-format/)
-
-<!-- BLOG-POST-LIST:END -->
-
 
 ---
 
