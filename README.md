@@ -12,10 +12,9 @@
 <br>
 <br>
 
-- 🔭 I’m currently working on [MY INTERNSHIP PROJECT](https://play.google.com/store/apps/details?id=visionintello.istaffrotapp&hl=en_IN&gl=US)
-- 🌱 I’m currently Working on Mobile App(React-Native)
-
-- 🌱 I’m currently learning **Blockchain, Machine Learning**
+- 🔭 I’m diving into flutter [FLUTTER]
+- 🌱 I’m currently Working as Mobile Applications Developer (React-Native | Swift | Kotlin/Java)
+- 🌱 I’m interested to work in future **Blockchain, Machine Learning**
 
 - 💬 Ask me about **Application Development, React Native, Java, Kotlin, Swift**
 
