@@ -6,7 +6,7 @@
 
 <br>
 
-
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=attique033&label=Profile%20views&color=0e75b6&style=flat" alt="attique033" /> </p>
 <img align="right" alt ="Loading..." width="300" src="https://user-images.githubusercontent.com/87614560/212770305-14fcbe0f-4ee6-4f72-9fc9-70d6c2a08cbf.gif">
 
 <br>
@@ -28,7 +28,7 @@
   <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/attique033/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:attique033@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=attique033&label=Profile%20views&color=0e75b6&style=flat" alt="attique033" /> </p>
+
 </p>
 
 ---
