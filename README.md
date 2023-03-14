@@ -1,13 +1,12 @@
 
 
 <p align="center">
-  <img width="0" src="https://github.com/SB2318/SB2318/blob/main/assets/Final_Break.gif" alt="Hi 👋, I'm Attique Ur Rehman.A passionate Mobile Application developer from Pakistan">
+  <img width="0" src="https://github.com/SB2318/SB2318/blob/main/assets/Final_Break.gif" alt="Hi 👋, I'm Attique Ur Rehman. A passionate Mobile Application developer from Pakistan">
 </p>
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=attique033&label=Profile%20views&color=0e75b6&style=flat" alt="attique033" /> </p>
-<img align="right" alt ="Loading..." width="300" src="https://user-images.githubusercontent.com/87614560/212770305-14fcbe0f-4ee6-4f72-9fc9-70d6c2a08cbf.gif">
+
 
 <br>
 <br>
