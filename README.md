@@ -48,9 +48,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=attique033&show_icons=true&locale=en" alt="attique033" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=attique033&" alt="attique033" /></p>
-
-# 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=attique033&theme=dark&hide_border=true)<br/>
 
 ## 🏆 GitHub Trophies
