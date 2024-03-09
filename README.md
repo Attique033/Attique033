@@ -46,7 +46,7 @@
 ---
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=attique033&show_icons=true&locale=en" alt="attique033" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=attique033&show_icons=true&locale=en&theme=dark&hide_border=true" alt="attique033" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=attique033&theme=dark&hide_border=true)<br/>
 
