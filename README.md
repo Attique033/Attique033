@@ -52,13 +52,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=attique033&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
----
-[![](https://visitcount.itsvg.in/api?id=SandeepJohn29&icon=7&color=1)](https://visitcount.itsvg.in)
-
 <!--
 **Attique033/Attique033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
