@@ -3,16 +3,10 @@
 <p align="center">
   <img width="0" src="https://github.com/SB2318/SB2318/blob/main/assets/Final_Break.gif" alt="Hi 👋, I'm Attique Ur Rehman. A passionate Mobile Application developer from Pakistan">
 </p>
-
 <br>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=attique033&label=Profile%20views&color=0e75b6&style=flat" alt="attique033" /> </p>
-
-<br>
-<br>
-
-- 🔭 I’m diving into flutter [FLUTTER]
-- 🌱 I’m currently Working as Mobile Applications Developer (React-Native | Swift | Kotlin/Java)
+- 🔭 I’m diving into React.js
+- 🌱 I’m currently Working as Frontend Engineer (React.js | Angular | React-Native | Swift | Kotlin/Java)
 - 🌱 I’m interested to work in future **Blockchain, Machine Learning**
 - 💬 Ask me about **Application Development, React Native, Java, Kotlin, Swift**
 
