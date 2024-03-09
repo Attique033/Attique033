@@ -43,6 +43,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=attique033&show_icons=true&locale=en&theme=dark&hide_border=true" alt="attique033" /></p>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=attique033&theme=dark&hide_border=true)<br/>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=attique033&theme=dark&hide_border=true" width="100%"/>
+</p>
 
 ---
 <h3>My Github Trophies:</h3>
