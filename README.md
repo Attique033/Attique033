@@ -50,7 +50,10 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=attique033&theme=dark&hide_border=true)<br/>
 
-## 🏆 GitHub Trophies
+---
+<h3>My Github Trophies:</h3>
+
+---
 ![](https://github-profile-trophy.vercel.app/?username=attique033&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 <!--
 **Attique033/Attique033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
