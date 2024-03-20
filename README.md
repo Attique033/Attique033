@@ -8,7 +8,7 @@
 - 🔭 I’m diving into React.js
 - 🌱 I’m currently Working as Frontend Engineer (React.js | Angular | React-Native | Swift | Kotlin/Java)
 - 🌱 I’m interested to work in future **Blockchain, Machine Learning**
-- 💬 Ask me about **Application Development, React Native, Java, Kotlin, Swift**
+- 💬 Ask me about **Mobile Application Development, React Native, Typescript, Javascript, Java, Kotlin, Swift**
 
 
 <br>
